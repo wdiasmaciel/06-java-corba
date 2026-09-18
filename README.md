@@ -91,3 +91,9 @@ servidor e exibe os dois resultados.
 `hash -r` é um comando interno do `Bash` que limpa o cache de localização dos executáveis. Ele não instala nem altera, apenas atualiza o cache de comandos do shell.
 
 ---
+
+## Exercício
+
+1. Altere o exemplo desta prática, acrescentando as operações de multiplicação e divisão.
+
+2. Crie uma aplicação cliente-servior em CORBA usando Java que permita consultar a lista de produtos de uma empresa. A lista deve conter a quantidade do produto em estoque e respectivo preço. A aplicação também deve permitir alterar a quantidade de produto em estoque e o preço.
